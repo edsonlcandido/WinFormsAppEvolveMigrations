@@ -1,0 +1,4 @@
+﻿CREATE TABLE Usuario (
+	GUID TEXT PRIMARY KEY,
+	Nome TEXT NOT NULL
+);
